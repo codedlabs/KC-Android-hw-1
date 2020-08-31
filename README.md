@@ -26,13 +26,13 @@
 <br>
  طريقة تعريف المتغيرات تكون كالتالي:
 <br>
-String name = “Zainab”;
+String name = Zainab -> لا تنسى علامات التنصيص
 <br>
-int age = 13;
+int age = 13
 <br>
 طريقة طباعة:
 <br>
-System.out.print(…)
+System.out.print
 <br>
 و كن دوما دقيق في قراءة السؤال, فهو طلب دالة من نوع 
 <br>
