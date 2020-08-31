@@ -45,7 +45,7 @@ System.out.print
 <hr>
 
 #### ننصح في مراجعة شرائح الحصة, و مشاهدة الفيديوهات المطلوبة
-Goog Luck our dear Android developers 💚
+Good luck our dear Android developers 💚
 <hr>
 
 ### بونص!
