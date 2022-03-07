@@ -1,0 +1,12 @@
+com/example/android/listviewproject/BuildConfig.java
+ com.example.android.listviewproject.BuildConfig
+com/example/android/listviewproject/Shapes.java
+ com.example.android.listviewproject.Shapes
+com/example/android/listviewproject/ShapeAdapter.java
+ com.example.android.listviewproject.ShapeAdapter
+ com.example.android.listviewproject.ShapeAdapter$1
+com/example/android/listviewproject/MainActivity.java
+ com.example.android.listviewproject.MainActivity
+ com.example.android.listviewproject.MainActivity$1
+com/example/android/listviewproject/DetailsActivity.java
+ com.example.android.listviewproject.DetailsActivity
