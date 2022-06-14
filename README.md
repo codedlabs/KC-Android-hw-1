@@ -17,5 +17,4 @@
 <img src="https://cdn.discordapp.com/attachments/740224779730157638/949718672572813343/unknown.png"/>
 
 ### تعديل مكان ال TextView للنتيجة و إظهاره أسفل زر RESET بدلا من CALCULATE
-### قم بإضافة أيقونة icon للبرنامج
  
